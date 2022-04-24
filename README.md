@@ -1,10 +1,10 @@
 ## Support & Updates 
-<a href="https://t.me/GhostChanxD"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Quinx_Squad"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Quinx_Squad"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Quinx_Squad"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
   
 
 <h1 align="center"><b>GhostChan-Bot</b></h1>
 
-# <p align="center"><a href="https://github.com/GhostChanxD/GhostChanBot"><img src="https://github-readme-stats.vercel.app/api/pin?username=GhostChanxD&show_icons=true&theme=dracula&hide_border=true&repo=TrickyAbhi-Bot"></a></p>
+# <p align="center"><a href="https://github.com/GhostChanxD/GhostChanBot"><img src="https://github-readme-stats.vercel.app/api/pin?username=GhostChanxD&show_icons=true&theme=dracula&hide_border=true&repo=Ghostchan-Bot"></a></p>
 <p align="center">
     
     
